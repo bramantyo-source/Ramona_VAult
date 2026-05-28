@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Ramona Vault</string>
+    <string name="title_activity_main">Ramona Vault</string>
+    <string name="package_name">com.rafael.ramona</string>
+    <string name="custom_url_scheme">com.rafael.ramona</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Ramona",
+  "description": "Brankas enkripsi end-to-end lokal Ramona yang menyimpan catatan, kunci SSH, akun TOTP, kartu barcode, dokumen rahasia, serta asisten audit keamanan & threat modeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
